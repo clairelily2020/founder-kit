@@ -1,0 +1,41 @@
+{
+  "name": "founder-kit",
+  "version": "0.1.0",
+  "description": "B2B SaaS founder decision toolkit for structured thinking, multi-angle review, preflight checks, retros, investigation, and growth playbooks.",
+  "author": {
+    "name": "Founder Kit Maintainers",
+    "url": "https://github.com/clairelily2020/founder-kit"
+  },
+  "homepage": "https://github.com/clairelily2020/founder-kit",
+  "repository": "https://github.com/clairelily2020/founder-kit",
+  "license": "MIT",
+  "keywords": [
+    "b2b-saas",
+    "founder",
+    "marketing",
+    "growth",
+    "retro",
+    "review",
+    "decision-making",
+    "playbook"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Founder Kit",
+    "shortDescription": "Founder decision toolkit",
+    "longDescription": "A public plugin for founders and growth leads: pressure-test ideas, generate variants, review work from multiple roles, run preflight checks, diagnose weak results, run retros, and reference growth playbooks.",
+    "developerName": "Founder Kit Maintainers",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "I have a new campaign idea",
+      "Review this landing page copy",
+      "Why did this campaign underperform",
+      "Run a weekly retro"
+    ]
+  }
+}

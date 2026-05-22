@@ -1,0 +1,10 @@
+{
+  "name": "founder-kit",
+  "description": "B2B SaaS founder decision toolkit for structured thinking, multi-angle review, preflight checks, retros, investigation, and growth playbooks.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Founder Kit Maintainers",
+    "url": "https://github.com/clairelily2020/founder-kit"
+  },
+  "license": "MIT"
+}
